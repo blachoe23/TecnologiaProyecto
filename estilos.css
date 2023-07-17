@@ -7,8 +7,6 @@
     }
     
     
-    
-    
     body{
     
     background-image: url("fondo.jpg");
@@ -16,6 +14,27 @@
     background-repeat: no-repeat;
     
     }
+    
+    
+.fondotecnologia{
+
+background-image: url("minions.webp");
+
+background-repeat: no-repeat;
+
+}
+    
+    
+body{
+
+background-image: url("piramides.jpg");
+
+background-repeat: no-repeat;
+
+}
+    
+    
+    
     
     
     
@@ -62,4 +81,53 @@
      
     
     }
-    
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagensociales{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("libertad.jfif");
+        
+        }
+        
+        
+        
+        .textosociales{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        
