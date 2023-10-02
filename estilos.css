@@ -1,3 +1,4 @@
+
 *{
 
     padding: 0px;
@@ -5,6 +6,8 @@
     margin: 0px;
     
     }
+    
+    
     
     
     body{
@@ -15,28 +18,14 @@
     
     }
     
+    body{
     
-.fondotecnologia{
-
-background-image: url("minions.webp");
-
-background-repeat: no-repeat;
-
-}
-    
-    
-body{
-
-background-image: url("piramides.jpg");
-
-background-repeat: no-repeat;
-
-}
-    
-    
-    
-    
-    
+        background-image: url("perfecta.jpg");
+        
+        background-repeat: no-repeat;
+        
+        }
+        
     
     .img{
     
@@ -81,6 +70,7 @@ background-repeat: no-repeat;
      
     
     }
+
     .contenido{
 
         height: 280px;
@@ -97,13 +87,13 @@ background-repeat: no-repeat;
         
          
         
-        .imagensociales{
+        .imagentecno{
         
          
         
-        background-repeat: no-repeat;
+        background-repeat:round;
         
-        float:left;
+        float:right;
         
         height: 200px;
         
@@ -113,21 +103,38 @@ background-repeat: no-repeat;
         
         margin-right:5px;
         
-        background-image: url("libertad.jfif");
+        background-image: url("primero.jpg");
         
         }
         
+
         
+        .textotecno{
         
-        .textosociales{
-        
-        text-align: justify;
+        text-align: center;
         
         color: azure;
         
         font-size: 20px;
+
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         
         
         
         }
+
+
+        .textosociales{
         
+            text-align: center;
+            
+            color: azure;
+            
+            font-size: 20px;
+    
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            
+            
+            
+            
+            }
